@@ -155,6 +155,12 @@ footer .social-media a:hover {
     }
 }
 
+@media only screen and (min-width: 400px) {
+    header {
+        bakground-size: cover;
+    }
+}
+
 @media (max-width: 480px) {
     footer iframe {
         width: 100%;
